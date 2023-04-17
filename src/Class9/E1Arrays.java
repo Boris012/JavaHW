@@ -6,7 +6,7 @@ public class E1Arrays {
         String name2="Aladin";
         String name3="Farwa";
         /*
-        Strin => data type
+        String => data type
         [] => this is a part f the syntax
         names=> a variable name or name of the array
         = => assignment operator

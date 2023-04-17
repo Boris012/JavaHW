@@ -8,6 +8,7 @@ public class E12Arrays {
             numbers[i]=num;
             num=num+10;
 
+
         }
 
         for (int number : numbers) {
