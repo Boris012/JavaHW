@@ -1,4 +1,4 @@
-package review;
+package review3;
 
 public class WhileLoop {
     public static void main(String[] args) {
