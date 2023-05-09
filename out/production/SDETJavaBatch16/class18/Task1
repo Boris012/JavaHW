@@ -1,0 +1,9 @@
+Task1:
+    create 3 classes Audi BMW and Honda create 4 fields and two methods in each class.
+
+Task2
+    Write program for multilevel inheritance where class C inherits
+    from class B and Class B inherits from Class A.
+Task 3
+    Write program to inherit class D that has method printF which is
+    static and call or reuse that method into class E
