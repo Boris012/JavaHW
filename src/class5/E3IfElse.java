@@ -12,6 +12,8 @@ public class E3IfElse {
         Scanner scan= new Scanner(System.in);
         System.out.println("Please enter your age?");
         int age=scan.nextInt();
+
+
         if(age<18){
             System.out.println("You cant drive");
         }else{

@@ -11,4 +11,6 @@ public class E2D2Arrays {
         //error as max index for colum is 2
         System.out.println(matrix[2][1]);
     }
+
+
 }

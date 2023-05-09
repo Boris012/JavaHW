@@ -8,6 +8,8 @@ public class E2If {
         Scanner input= new Scanner(System.in);
         System.out.println("is it time for break true/false");
         boolean isBreak=input.nextBoolean();
+
+
         if (isBreak){
             System.out.println("lets have a break");
 

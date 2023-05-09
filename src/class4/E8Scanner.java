@@ -8,6 +8,8 @@ public class E8Scanner {
         System.out.println("Please Enter your salary");
         //for int type of data we should be using nextInt() method
         int salary=scanner.nextInt();
+
+
         if (salary>100000){
             System.out.println(" You are rich");
         }else {

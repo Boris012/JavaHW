@@ -5,7 +5,7 @@ public class E11WhileLoop {
 
         /*
         numbers 100 to 1
-        even 20 to 10
+        even 20 to 100
         add 100 to 1
         */
 

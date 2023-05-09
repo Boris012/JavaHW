@@ -9,7 +9,7 @@ public class E3WhileLoop {
             System.out.println("Hello World");
             // in every iteration the value of the counter variable will incerese
             counter++;  //4
-            counter++;  //5
+            //counter++;  //5
 
 
         }

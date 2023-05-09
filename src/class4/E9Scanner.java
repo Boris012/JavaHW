@@ -7,6 +7,8 @@ public class E9Scanner {
         Scanner scanner=new Scanner(System.in);
         System.out.println("Are you hungry Enter true/false");
         boolean hungry=scanner.nextBoolean();
+
+
         if (hungry){
             System.out.println("Lets order pizza");
         }else{

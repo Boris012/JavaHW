@@ -11,11 +11,12 @@ public class E4BreakKeyword {
         //1+2+3+4+5+67+8+9....24=>300
         int sum=0;
         for (int i = 0; i < 50; i++) {
-            sum=sum+1;
+            sum=sum+i;
             if (sum>=300) {
-                System.out.println(i);
+
                 break;
             }
+            System.out.print(sum+" ");
 
         }
     }
